@@ -17,11 +17,19 @@
     },
     "done": true
   },
+  "triumph:vanilla/story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-04-15 16:28:06 -0400"
+    },
+    "done": true
+  },
   "triumph:vanilla/adventure/adventuring_time": {
     "criteria": {
       "deep_ocean": "2020-04-15 03:24:07 -0400",
       "beaches": "2020-04-15 03:22:59 -0400",
-      "river": "2020-04-15 03:25:55 -0400"
+      "ocean": "2020-04-15 16:19:47 -0400",
+      "river": "2020-04-15 03:25:55 -0400",
+      "jungle": "2020-04-15 16:08:27 -0400"
     },
     "done": false
   }
