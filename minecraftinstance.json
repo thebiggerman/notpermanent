@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-04-15T02:26:47.5733762Z",
+  "lastPlayed": "2020-04-15T06:57:51.5531879Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -42,11 +42,314 @@
   "allocatedMemory": 6400,
   "guid": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\Will\\Twitch\\Minecraft\\Instances\\RPG test\\",
+  "installPath": "C:\\Users\\Protowalker\\Twitch\\Minecraft\\Instances\\notpermanent\\",
   "name": "RPG test",
-  "cachedScans": [],
+  "cachedScans": [
+    {
+      "folderName": "Wesley's Roguelike Dungeons V0.8.1.jar",
+      "fingerprint": 1344093345,
+      "fileDateHash": 185724720,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1344093345
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.8601416Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.7895747Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3000331Z",
+      "fileCount": 1,
+      "fileSize": 15568845
+    },
+    {
+      "folderName": "iceandfire-1.9.0.jar",
+      "fingerprint": 793978375,
+      "fileDateHash": 1575648475,
+      "sectionID": 8,
+      "individualFingerprints": [
+        793978375
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.7195179Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.9341886Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3000331Z",
+      "fileCount": 1,
+      "fileSize": 20414258
+    },
+    {
+      "folderName": "antiqueatlas-1.12.2-4.6.3.jar",
+      "fingerprint": 3949702391,
+      "fileDateHash": 4244012466,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3949702391
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.6237737Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.7995327Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3000331Z",
+      "fileCount": 1,
+      "fileSize": 1239580
+    },
+    {
+      "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
+      "fingerprint": 1245112832,
+      "fileDateHash": 3306470614,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1245112832
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2620215Z",
+      "lastWriteTimeUtc": "2020-04-15T06:45:13.6160115Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7885834Z",
+      "fileCount": 1,
+      "fileSize": 132644
+    },
+    {
+      "folderName": "SoundFilters-0.12_for_1.12.jar",
+      "fingerprint": 1723629678,
+      "fileDateHash": 636424479,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1723629678
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.8601416Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.6988705Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3000331Z",
+      "fileCount": 1,
+      "fileSize": 43161
+    },
+    {
+      "folderName": "ProgressiveDifficulty-1.12_3.1.jar",
+      "fingerprint": 1579137138,
+      "fileDateHash": 1186517682,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1579137138
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2690027Z",
+      "lastWriteTimeUtc": "2020-04-15T06:44:40.973518Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7885834Z",
+      "fileCount": 1,
+      "fileSize": 107147
+    },
+    {
+      "folderName": "OreLib-1.12.2-3.6.0.1.jar",
+      "fingerprint": 3666807815,
+      "fileDateHash": 1688819491,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3666807815
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.8581471Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.688816Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3010328Z",
+      "fileCount": 1,
+      "fileSize": 341728
+    },
+    {
+      "folderName": "mowziesmobs-1.5.4.jar",
+      "fingerprint": 2286290713,
+      "fileDateHash": 352091394,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2286290713
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.8292243Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.9870198Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3010328Z",
+      "fileCount": 1,
+      "fileSize": 5750030
+    },
+    {
+      "folderName": "BNBGamingCore-1.12.2-0.11.0.jar",
+      "fingerprint": 4212799678,
+      "fileDateHash": 3627411766,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4212799678
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2610239Z",
+      "lastWriteTimeUtc": "2020-04-15T06:45:13.3854664Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 130110
+    },
+    {
+      "folderName": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+      "fingerprint": 2361565332,
+      "fileDateHash": 752749265,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2361565332
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2390825Z",
+      "lastWriteTimeUtc": "2020-04-15T07:19:38.9591078Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 4696621
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 1053363514,
+      "fileDateHash": 2050671161,
+      "sectionID": 10,
+      "individualFingerprints": [
+        20989557,
+        70650973,
+        111085069,
+        155670992,
+        230963204,
+        489458212,
+        489458212,
+        655385178,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        865373193,
+        883828186,
+        1108796446,
+        1415484611,
+        1434464627,
+        1563048411,
+        1628726299,
+        1699798459,
+        1720442505,
+        1999963101,
+        2386497373,
+        2483295848,
+        2748824091,
+        2748824091,
+        2748824091,
+        2748824091,
+        2834485069,
+        2903533609,
+        3070773332,
+        3674518485,
+        3730854482
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2934604Z",
+      "lastWriteTimeUtc": "2020-04-15T06:35:48.0121293Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 13,
+      "fileSize": 0
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.291.jar",
+      "fingerprint": 3391578337,
+      "fileDateHash": 2650416565,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3391578337
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2650125Z",
+      "lastWriteTimeUtc": "2020-04-15T06:21:15.179512Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 651473
+    },
+    {
+      "folderName": "1.12.2-SwordSkillsApi-1.1.0.jar",
+      "fingerprint": 3357434807,
+      "fileDateHash": 835512383,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3357434807
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2370875Z",
+      "lastWriteTimeUtc": "2020-04-15T06:37:13.6362419Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 28000
+    },
+    {
+      "folderName": "llibrary-1.7.19-1.12.2.jar",
+      "fingerprint": 507777411,
+      "fileDateHash": 2956562610,
+      "sectionID": 8,
+      "individualFingerprints": [
+        507777411
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.8242377Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.9431403Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3010328Z",
+      "fileCount": 1,
+      "fileSize": 884837
+    },
+    {
+      "folderName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+      "fingerprint": 1663259258,
+      "fileDateHash": 4126157407,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1663259258
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.238085Z",
+      "lastWriteTimeUtc": "2020-04-15T06:44:56.2648735Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 62668
+    },
+    {
+      "folderName": "DynamicSurroundings-1.12.2-3.6.1.0.jar",
+      "fingerprint": 1977391340,
+      "fileDateHash": 1532788146,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1977391340
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T05:36:40.6327497Z",
+      "lastWriteTimeUtc": "2020-04-15T05:36:26.6838577Z",
+      "queryTimestamp": "2020-04-15T05:36:41.3010328Z",
+      "fileCount": 1,
+      "fileSize": 15929762
+    },
+    {
+      "folderName": "CustomLoadingScreen-1.12.2-1.4.1.jar",
+      "fingerprint": 1751499308,
+      "fileDateHash": 2711448687,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1751499308
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.263019Z",
+      "lastWriteTimeUtc": "2020-04-15T07:05:15.2961863Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 521135
+    },
+    {
+      "folderName": "Triumph-1.12.2-3.19.2.jar",
+      "fingerprint": 3275259596,
+      "fileDateHash": 4122396174,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3275259596
+      ],
+      "status": 1,
+      "timestamp": "2020-04-15T07:22:54.2699993Z",
+      "lastWriteTimeUtc": "2020-04-15T06:45:13.8538669Z",
+      "queryTimestamp": "2020-04-15T07:22:54.7895804Z",
+      "fileCount": 1,
+      "fileSize": 367437
+    }
+  ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastPreviousMatchUpdate": "2020-04-15T07:22:55.1621183Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -69,6 +372,224 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2020-04-15T02:11:19.1583663Z",
   "installedAddons": [
+    {
+      "addonID": 220318,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2715506,
+        "displayName": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+        "fileName": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+        "fileDate": "2019-05-25T08:04:08.873Z",
+        "fileLength": 4696621,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2715/506/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3132324580,
+            "type": 0
+          },
+          {
+            "foldername": "biomesoplenty",
+            "fingerprint": 2457451123,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3847610533,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2922892018,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2585792492,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 2878218662,
+            "type": 0
+          },
+          {
+            "foldername": "version.properties",
+            "fingerprint": 3260203277,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2361565332,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+      },
+      "dateInstalled": "2020-04-15T07:19:38.9591078Z",
+      "dateUpdated": "2020-04-15T07:19:38.9621156Z",
+      "dateLastUpdateAttempted": "2020-04-15T07:19:38.9621156Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 229587,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2698688,
+        "displayName": "BNBGamingLib 1.12-2.17.6",
+        "fileName": "BNBGamingLib-1.12.2-2.17.6.jar",
+        "fileDate": "2019-04-13T16:49:31.17Z",
+        "fileLength": 132644,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2698/688/BNBGamingLib-1.12.2-2.17.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1562242874,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1979863911,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2340877875,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3747149291,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1245112832,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingLib-1.12.2-2.17.6.jar"
+      },
+      "dateInstalled": "2020-04-15T06:45:13.6160115Z",
+      "dateUpdated": "2020-04-15T06:45:13.6170091Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:45:13.6170091Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 270476,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2498631,
+        "displayName": "ProgressiveDifficulty-1.12_3.1.jar",
+        "fileName": "ProgressiveDifficulty-1.12_3.1.jar",
+        "fileDate": "2017-11-10T02:19:25.53Z",
+        "fileLength": 107147,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2498/631/ProgressiveDifficulty-1.12_3.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "derpatiel",
+            "fingerprint": 2157069705,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1480999038,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1579137138,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ProgressiveDifficulty-1.12_3.1.jar"
+      },
+      "dateInstalled": "2020-04-15T06:44:40.973518Z",
+      "dateUpdated": "2020-04-15T06:44:40.9745084Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:44:40.9745084Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 238891,
       "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
@@ -162,158 +683,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 332234,
-      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
-      "installedFile": {
-        "id": 2841053,
-        "displayName": "Wesley's Roguelike Dungeons V0.8.1",
-        "fileName": "Wesley's Roguelike Dungeons V0.8.1.jar",
-        "fileDate": "2019-12-11T16:45:34.777Z",
-        "fileLength": 15568845,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2841/53/Wesley's Roguelike Dungeons V0.8.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2034720194,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 1329372062,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1731551787,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1455878277,
-            "type": 0
-          },
-          {
-            "foldername": "MCreator-README.txt",
-            "fingerprint": 1756242058,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2434049227,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1344093345,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Wesley's Roguelike Dungeons V0.8.1.jar"
-      },
-      "dateInstalled": "2020-04-15T02:26:39.6405958Z",
-      "dateUpdated": "2020-04-15T02:26:39.6525882Z",
-      "dateLastUpdateAttempted": "2020-04-15T02:26:39.6525882Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 307806,
-      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
-      "installedFile": {
-        "id": 2820815,
-        "displayName": "OreLib-1.12.2-3.6.0.1.jar",
-        "fileName": "OreLib-1.12.2-3.6.0.1.jar",
-        "fileDate": "2019-11-02T17:33:29.31Z",
-        "fileLength": 341728,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1444060873,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4183833435,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2404082953,
-            "type": 0
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 2570083627,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2992122785,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3666807815,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "OreLib-1.12.2-3.6.0.1.jar"
-      },
-      "dateInstalled": "2020-04-15T02:25:50.2809941Z",
-      "dateUpdated": "2020-04-15T02:25:50.2849834Z",
-      "dateLastUpdateAttempted": "2020-04-15T02:25:50.2849834Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227795,
@@ -401,7 +771,158 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 307806,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2820815,
+        "displayName": "OreLib-1.12.2-3.6.0.1.jar",
+        "fileName": "OreLib-1.12.2-3.6.0.1.jar",
+        "fileDate": "2019-11-02T17:33:29.31Z",
+        "fileLength": 341728,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1444060873,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4183833435,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2404082953,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 2570083627,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2992122785,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3666807815,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OreLib-1.12.2-3.6.0.1.jar"
+      },
+      "dateInstalled": "2020-04-15T02:25:50.2809941Z",
+      "dateUpdated": "2020-04-15T02:25:50.2849834Z",
+      "dateLastUpdateAttempted": "2020-04-15T02:25:50.2849834Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 332234,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2841053,
+        "displayName": "Wesley's Roguelike Dungeons V0.8.1",
+        "fileName": "Wesley's Roguelike Dungeons V0.8.1.jar",
+        "fileDate": "2019-12-11T16:45:34.777Z",
+        "fileLength": 15568845,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/53/Wesley's Roguelike Dungeons V0.8.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2034720194,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1329372062,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1731551787,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1455878277,
+            "type": 0
+          },
+          {
+            "foldername": "MCreator-README.txt",
+            "fingerprint": 1756242058,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2434049227,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1344093345,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Wesley's Roguelike Dungeons V0.8.1.jar"
+      },
+      "dateInstalled": "2020-04-15T02:26:39.6405958Z",
+      "dateUpdated": "2020-04-15T02:26:39.6525882Z",
+      "dateLastUpdateAttempted": "2020-04-15T02:26:39.6525882Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 243298,
@@ -473,59 +994,124 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
-      "addonID": 250498,
+      "addonID": 229876,
       "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
       "installedFile": {
-        "id": 2699705,
-        "displayName": "Mowzie's Mobs - 1.5.4",
-        "fileName": "mowziesmobs-1.5.4.jar",
-        "fileDate": "2019-04-15T21:24:10.267Z",
-        "fileLength": 5750030,
-        "releaseType": 1,
+        "id": 2483393,
+        "displayName": "v1.4.8",
+        "fileName": "BetterFps-1.4.8.jar",
+        "fileDate": "2017-09-24T01:00:21.883Z",
+        "fileLength": 155196,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2699/705/mowziesmobs-1.5.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 243298,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2856020145,
+            "fingerprint": 3441204741,
             "type": 0
           },
           {
-            "foldername": "com",
-            "fingerprint": 3607548746,
+            "foldername": "guichaguri",
+            "fingerprint": 2685540567,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 396541879,
+            "fingerprint": 2568502241,
+            "type": 0
+          },
+          {
+            "foldername": "betterfps.srg",
+            "fingerprint": 2108445252,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3051920250,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BetterFps-1.4.8.jar"
+      },
+      "dateInstalled": "2020-04-15T07:23:08.9989155Z",
+      "dateUpdated": "2020-04-15T07:23:08.9999123Z",
+      "dateLastUpdateAttempted": "2020-04-15T07:23:08.9999123Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 281029,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2497376,
+        "displayName": "1.12.2-SwordSkillsApi-1.1.0.jar",
+        "fileName": "1.12.2-SwordSkillsApi-1.1.0.jar",
+        "fileDate": "2017-11-05T05:04:36.953Z",
+        "fileLength": 28000,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2497/376/1.12.2-SwordSkillsApi-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "swordskillsapi",
+            "fingerprint": 3483597425,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 700360034,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1004833946,
+            "fingerprint": 3709633306,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 391583270,
+            "fingerprint": 3623236665,
+            "type": 0
+          },
+          {
+            "foldername": "versionlist.json",
+            "fingerprint": 1777814195,
             "type": 0
           }
         ],
-        "packageFingerprint": 2286290713,
+        "packageFingerprint": 3357434807,
         "gameVersion": [
           "1.12.2"
         ],
@@ -538,11 +1124,186 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mowziesmobs-1.5.4.jar"
+        "FileNameOnDisk": "1.12.2-SwordSkillsApi-1.1.0.jar"
       },
-      "dateInstalled": "2020-04-15T02:11:53.4318388Z",
-      "dateUpdated": "2020-04-15T02:11:53.4427885Z",
-      "dateLastUpdateAttempted": "2020-04-15T02:11:53.4427885Z",
+      "dateInstalled": "2020-04-15T06:37:13.6362419Z",
+      "dateUpdated": "2020-04-15T06:37:13.6381617Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:37:13.6381617Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 235492,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2825547,
+        "displayName": "Triumph 1.12-3.19.2",
+        "fileName": "Triumph-1.12.2-3.19.2.jar",
+        "fileDate": "2019-11-10T23:12:56.45Z",
+        "fileLength": 367437,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2825/547/Triumph-1.12.2-3.19.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 274341,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 272515,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 229587,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 516680039,
+            "type": 0
+          },
+          {
+            "foldername": "betteradvancements",
+            "fingerprint": 1791446988,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2999940298,
+            "type": 0
+          },
+          {
+            "foldername": "defaultconfigs",
+            "fingerprint": 751646187,
+            "type": 0
+          },
+          {
+            "foldername": "documentation",
+            "fingerprint": 3290270535,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 475813764,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3275259596,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Triumph-1.12.2-3.19.2.jar"
+      },
+      "dateInstalled": "2020-04-15T06:45:13.8538669Z",
+      "dateUpdated": "2020-04-15T06:45:13.8608724Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:45:13.8608724Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2803400,
+        "displayName": "jei_1.12.2-4.15.0.291.jar",
+        "fileName": "jei_1.12.2-4.15.0.291.jar",
+        "fileDate": "2019-10-07T01:20:32.567Z",
+        "fileLength": 651473,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3894020924,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2909248480,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3888864790,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4278251486,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3391578337,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
+      },
+      "dateInstalled": "2020-04-15T06:21:15.179512Z",
+      "dateUpdated": "2020-04-15T06:21:15.2124233Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:21:15.2124233Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -622,6 +1383,347 @@
       "dateInstalled": "2020-04-15T02:11:48.1470012Z",
       "dateUpdated": "2020-04-15T02:11:48.163956Z",
       "dateLastUpdateAttempted": "2020-04-15T02:11:48.163956Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 250498,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2699705,
+        "displayName": "Mowzie's Mobs - 1.5.4",
+        "fileName": "mowziesmobs-1.5.4.jar",
+        "fileDate": "2019-04-15T21:24:10.267Z",
+        "fileLength": 5750030,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2699/705/mowziesmobs-1.5.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 243298,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2856020145,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3607548746,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 396541879,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1004833946,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 391583270,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2286290713,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "mowziesmobs-1.5.4.jar"
+      },
+      "dateInstalled": "2020-04-15T02:11:53.4318388Z",
+      "dateUpdated": "2020-04-15T02:11:53.4427885Z",
+      "dateLastUpdateAttempted": "2020-04-15T02:11:53.4427885Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 292785,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2915154,
+        "displayName": "VanillaFix 1.0.10-150",
+        "fileName": "VanillaFix-1.0.10-150.jar",
+        "fileDate": "2020-03-28T20:11:04.723Z",
+        "fileLength": 1025896,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 740397635,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 1961485528,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 361536539,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.textures.modsupport.json",
+            "fingerprint": 3519259910,
+            "type": 0
+          },
+          {
+            "foldername": "dst_root_ca_x3.jks",
+            "fingerprint": 1567663994,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.bugs.json",
+            "fingerprint": 2753214984,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.modsupport.json",
+            "fingerprint": 3089231482,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.profiler.json",
+            "fingerprint": 3040386461,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.crashes.json",
+            "fingerprint": 2448802141,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.textures.json",
+            "fingerprint": 1592007373,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1908053936,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4257585702,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.refmap.json",
+            "fingerprint": 764242549,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2608670190,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "VanillaFix-1.0.10-150.jar"
+      },
+      "dateInstalled": "2020-04-15T07:23:19.3527542Z",
+      "dateUpdated": "2020-04-15T07:23:19.3687118Z",
+      "dateLastUpdateAttempted": "2020-04-15T07:23:19.3687118Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 278494,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2845668,
+        "displayName": "FoamFix 0.10.10 (1.12.2)",
+        "fileName": "foamfix-0.10.10-1.12.2.jar",
+        "fileDate": "2019-12-20T09:14:01.333Z",
+        "fileLength": 201683,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1843591489,
+            "type": 0
+          },
+          {
+            "foldername": "foamfix_at.cfg",
+            "fingerprint": 2590909010,
+            "type": 0
+          },
+          {
+            "foldername": "foamfix_runtime_at.cfg",
+            "fingerprint": 2504249573,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4069919274,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3033825429,
+            "type": 0
+          },
+          {
+            "foldername": "pl",
+            "fingerprint": 1768026654,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3326311587,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "foamfix-0.10.10-1.12.2.jar"
+      },
+      "dateInstalled": "2020-04-15T07:23:12.7822344Z",
+      "dateUpdated": "2020-04-15T07:23:12.7842291Z",
+      "dateLastUpdateAttempted": "2020-04-15T07:23:12.7842291Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 274341,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2698691,
+        "displayName": "BNBGamingCore 1.12-0.11.0",
+        "fileName": "BNBGamingCore-1.12.2-0.11.0.jar",
+        "fileDate": "2019-04-13T16:53:30.283Z",
+        "fileLength": 130110,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2698/691/BNBGamingCore-1.12.2-0.11.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1362632279,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4012198010,
+            "type": 0
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 1305795079,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3520107738,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4212799678,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.11.0.jar"
+      },
+      "dateInstalled": "2020-04-15T06:45:13.3854664Z",
+      "dateUpdated": "2020-04-15T06:45:13.3864635Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:45:13.3864635Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -686,6 +1788,156 @@
       "dateInstalled": "2020-04-15T02:26:01.0907531Z",
       "dateUpdated": "2020-04-15T02:26:01.0937451Z",
       "dateLastUpdateAttempted": "2020-04-15T02:26:01.0937451Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 272515,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2685984,
+        "displayName": "BetterAdvancements-1.12.2-0.1.0.77",
+        "fileName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+        "fileDate": "2019-03-11T20:53:31.367Z",
+        "fileLength": 62668,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar",
+        "isAlternate": false,
+        "alternateFileId": 2685985,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1270984732,
+            "type": 0
+          },
+          {
+            "foldername": "betteradvancements",
+            "fingerprint": 3341295667,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2077765080,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3841018458,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3728515777,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1663259258,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BetterAdvancements-1.12.2-0.1.0.77.jar"
+      },
+      "dateInstalled": "2020-04-15T06:44:56.2648735Z",
+      "dateUpdated": "2020-04-15T06:44:56.2658666Z",
+      "dateLastUpdateAttempted": "2020-04-15T06:44:56.2658666Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 229302,
+      "gameInstanceID": "af3c89a6-e156-4cbd-9fcb-5ae81c3eea7b",
+      "installedFile": {
+        "id": 2783190,
+        "displayName": "[1.12.2] 1.4.1",
+        "fileName": "CustomLoadingScreen-1.12.2-1.4.1.jar",
+        "fileDate": "2019-09-11T19:05:59.277Z",
+        "fileLength": 521135,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2783/190/CustomLoadingScreen-1.12.2-1.4.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4287176933,
+            "type": 0
+          },
+          {
+            "foldername": "alexiil",
+            "fingerprint": 3253620097,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3959885281,
+            "type": 0
+          },
+          {
+            "foldername": "changelog",
+            "fingerprint": 4191501810,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3514929039,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2980605036,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1751499308,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CustomLoadingScreen-1.12.2-1.4.1.jar"
+      },
+      "dateInstalled": "2020-04-15T07:05:15.2961863Z",
+      "dateUpdated": "2020-04-15T07:05:15.3221991Z",
+      "dateLastUpdateAttempted": "2020-04-15T07:05:15.3221991Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
